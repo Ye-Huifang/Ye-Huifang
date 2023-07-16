@@ -5,7 +5,8 @@
 ## 
 
 - 👨‍💻 I'm currently a Master's Student in Computer Science at UPenn.
-- 🔬 I used to be a Software Engineer Intern @ United Imaging Intelligence America and Research Assistant @ CSSLab at Penn.
+- 🔬 I used to be a Software Engineer Intern @ United Imaging Intelligence America and DraftKings.
+- 💭 I was also a Research Assistant @ CSSLab at Penn.
 - 📚 Continuously honing my skills in Full-Stack development, with a particular focus on Java, Python, JavaScript, SQL, and React.js.
 - 💪🏼 Future Goals: Deepen my understanding of Software Engineering and Artificial Intelligence, while continuously exploring and creating innovative solutions in the tech space.
 ---
@@ -13,6 +14,7 @@
 ##### Languages I use
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
